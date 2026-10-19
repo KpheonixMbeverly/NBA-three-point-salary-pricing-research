@@ -16,7 +16,7 @@ The original one-page poster is shown below. Select the image or [open the full-
 
 <a href="assets/research_poster.pdf"><img src="assets/research_poster.png" alt="Research poster: How the NBA Gradually Learned to Pay for Three-Point Skill" width="900"></a>
 
-*Poster provided by the authors. The code and numeric results below document the reproducible near-max specification; any differences between visual poster drafts and reproduced output should be checked before citing results. Confirm reuse rights for any third-party imagery or poster template before publishing a public repository.*
+
 
 ## Reproduced coefficient figure
 
