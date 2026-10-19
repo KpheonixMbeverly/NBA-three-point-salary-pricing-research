@@ -1,0 +1,15 @@
+# The bundled player CSV is intentionally tracked at the author's request.
+# VERIFY original data provenance and redistribution rights before making this repository public.
+/data/raw/*
+!/data/raw/NBA Player Stats and Salaries_2000-2025.csv
+!/data/raw/README.md
+/data/external/*.csv
+!/data/external/*_template.csv
+/outputs/
+!/outputs/.gitkeep
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+.DS_Store

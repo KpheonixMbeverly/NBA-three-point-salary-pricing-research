@@ -1,0 +1,25 @@
+{
+  "research_version": "poster_nearmax_no_playoffs",
+  "research_period": "2000-2025",
+  "observation_unit_in_raw": "player-team-season record",
+  "source_file_name": "NBA Player Stats and Salaries_2000-2025.csv",
+  "source_file_sha256": "b0da1182b7dd36f3a28d06f15c0c01635c538318955aa31bc131a763635672d7",
+  "source_rows": 10473,
+  "archive_reference_sha256": "a76ac206f67632fde3b457ce14a0369d9c6d23ead4f2dd7d9e15148ae5ea32a6",
+  "key_coefficient_absolute_difference_max": 9.71445146547012e-17,
+  "group_regressions": 12,
+  "interpretation": "Computational reproduction of legacy poster specification; not a validation of causal identification, salaries, or cap data",
+  "software_environment": {
+    "python": "3.13.5",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.8",
+    "scipy": "1.17.0",
+    "Pillow": "12.3.0",
+    "pytest": "9.0.2"
+  },
+  "source_file_bundled": true,
+  "source_file_relative_path": "data/raw/NBA Player Stats and Salaries_2000-2025.csv",
+  "source_data_redistribution_permission_verified": false
+}

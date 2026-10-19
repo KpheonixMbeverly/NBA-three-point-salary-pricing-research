@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this repository when using the analysis code or reproduced figures."
+title: "How the NBA Gradually Learned to Pay for Three-Point Skill: Evidence from Historical Eras and Positional Heterogeneity"
+version: 0.1.0
+date-released: 2026-10-19
+authors:
+  - family-names: Zhao
+    given-names: Yukai
+  - family-names: Ju
+    given-names: Wenchen
+keywords:
+  - NBA
+  - salaries
+  - three-point shooting
+  - labor economics
+  - fixed effects
+  - replication
