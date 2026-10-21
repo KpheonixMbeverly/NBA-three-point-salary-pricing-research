@@ -86,4 +86,8 @@ nba-pricing run --input 'data/raw/NBA Player Stats and Salaries_2000-2025.csv' -
 - **球队上一赛季季后赛层级**只作为可选扩展；目前没有经过独立验证的完整球队季后赛表，代码不会把缺失值伪装成“未进入季后赛”。真正的“球员上一赛季季后赛表现”需要另行提供球员级数据。
 - 本次 ZIP **已包含**作者提供的原始球员 CSV，且 `.gitignore` 已允许追踪该文件。**这不代表拥有公开再分发许可**；如果仓库计划公开，应先核实数据来源与授权。
 
-代码库复现了历史结果，但不会把仍有缺陷的历史设定包装成经严格识别的因果结论。
+
+## 获奖证书
+<img width="1280" height="1813" alt="7308a1670253feb6c9c0e8e717e2e0fd" src="https://github.com/user-attachments/assets/fb2d88eb-9497-4446-b711-b082bc372dd9" /><img width="1280" height="1813" alt="微信图片_20261021175221_47_2" src="https://github.com/user-attachments/assets/d450c29e-2d48-4db8-b40d-3726aa9e0aea" />
+
+
