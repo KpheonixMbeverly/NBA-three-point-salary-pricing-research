@@ -218,7 +218,7 @@ Please verify rights before publicly posting third-party datasets, NBA trademark
 
 ## Award Certification
 <img width="1280" height="1813" alt="微信图片_20261021175220_46_2" src="https://github.com/user-attachments/assets/e0cfa38f-3c2a-4e40-a1b2-c200c81d3491" />
-<img width="1280" height="1813" alt="微信图片_20261021175221_47_2" src="https://github.com/user-attachments/assets/d9a1576b-3a42-4676-b748-e0f7bb755ff0" />
+<img width="1280" height="1813" alt="7308a1670253feb6c9c0e8e717e2e0fd" src="https://github.com/user-attachments/assets/2d92798e-b5f7-4c83-9271-daa07786534c" />
 
 
 Short description and suggested repository topics are in [GITHUB_ABOUT.md](GITHUB_ABOUT.md).
