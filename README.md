@@ -216,7 +216,10 @@ Historical cap numbers, the 1.5%-of-cap inclusion rule, mixed-position classific
 
 Please verify rights before publicly posting third-party datasets, NBA trademarks, player photographs or copyrighted poster templates.
 
-## GitHub About text
+## Award Certification
+<img width="1280" height="1813" alt="微信图片_20261021175220_46_2" src="https://github.com/user-attachments/assets/e0cfa38f-3c2a-4e40-a1b2-c200c81d3491" />
+<img width="1280" height="1813" alt="微信图片_20261021175221_47_2" src="https://github.com/user-attachments/assets/d9a1576b-3a42-4676-b748-e0f7bb755ff0" />
+
 
 Short description and suggested repository topics are in [GITHUB_ABOUT.md](GITHUB_ABOUT.md).
 
